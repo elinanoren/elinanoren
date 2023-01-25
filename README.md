@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hej! 👋
+Jag heter **Elina Norén** och studerar webbutveckling på distans vid [Mittuniversitetet](www.miun.se).  
+Jag har ingen tidigare erfarenhet av liknande studier eller arbeten, men tycker att det är väldigt intressant och tar tacksamt emot hjälpsamma tips. 
 <!--
 **elinanoren/elinanoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
